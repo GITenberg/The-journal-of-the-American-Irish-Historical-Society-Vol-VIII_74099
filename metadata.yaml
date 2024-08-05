@@ -1,0 +1,40 @@
+_repo: The-journal-of-the-American-Irish-Historical-Society-Vol-VIII_74099
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Lee, Thomas Zanslaur
+    birthdate: 1866
+    deathdate: 1931
+    gutenberg_agent_id: '57348'
+    url: http://www.gutenberg.org/2009/agents/57348
+description: ''
+gutenberg_issued: '2024-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74099'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/000505088
+pgterms:marc905: 20110501135033murray
+pgterms:marc906: '1898'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aBoston :$bAmerican-Irish Historical Society, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American-Irish Historical Society -- Periodicals'
+- !lcsh 'Irish Americans -- Periodicals'
+- !lcsh 'Ethnology -- United States -- Periodicals'
+- !lcc 'E151'
+- GITenberg
+title: The journal of the American-Irish Historical Society (Vol. VIII)
+url: http://www.gutenberg.org/ebooks/74099
